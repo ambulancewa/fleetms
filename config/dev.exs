@@ -4,7 +4,7 @@ config :phoenix_live_view, debug_heex_annotations: true
 # Configure your database
 config :fleetms, Fleetms.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "WYA7q9rh7u1MDGOhPMo616qV5v7mzSk1nAtOvX0hnxlJwJ8mtn1tv4E7KWMXK4d4",
   hostname: "localhost",
   database: "fleetms_dev",
   stacktrace: true,
